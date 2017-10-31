@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import re
 
-tweets_data_path = '/Users/Carnec/Documents/DataScience/twitter_data_trump.json'
+tweets_data_path = '/Users/Carnec/Documents/DataScience/twitter/twitter_data_trump.json'
 
 
 tweets_data = []
